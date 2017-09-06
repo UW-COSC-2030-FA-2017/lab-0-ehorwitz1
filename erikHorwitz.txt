@@ -1,0 +1,4 @@
+Three interesting facts I learned in the past 3 days
+1. I learned how to work with gitHub
+2. I learned where in memory pointers point to
+3. I learned who my computer science lab TA is
